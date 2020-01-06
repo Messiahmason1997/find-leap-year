@@ -14,5 +14,5 @@ function findLeapYear() {
 		}
 	});
 
-	console.log(leapYears);
+	console.log(leapYears + 1);
 }
